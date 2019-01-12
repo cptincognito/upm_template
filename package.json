@@ -2,7 +2,7 @@
     "name": "com.evanharper.upm_template",
     "displayName": "UPM Template",
     "description": "Starter Template for UPM(unity3d) packages",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "unity": "2018.3",
     "license": "MIT",
     "repository": {
